@@ -178,3 +178,24 @@
   178  git restore testing.py 
   179  history
   180  history > git_commands 
+ 181  git status
+  182  git add git_commands
+  183  git commit -m "add history"
+  184  git status
+  185  ls -a
+  186  git remote -v
+  187  ls -a
+  188  git remote add origin https://
+  190  git remote -v
+  191  ls
+  192  git remote -v
+  193  git remote -v
+  194  #git remote set-url origin h
+  196  git remote set-url origin Ahan-88/my-github-repo.git
+  197  git remote -v
+  198  git push origin master
+  199  ls
+  200  history
+  201  history > git_commands
+  202  history > git_commands
+  203  history
