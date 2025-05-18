@@ -1,0 +1,180 @@
+    1  ls
+    2  ssh root@192.168.31.96
+    3  ssh root@192.168.31.96
+    4  ssh i virginia-key.pem ec2-user@34.207.99.201
+    5  ssh i virginia-key.pem ec2-user@34.207.99.201
+    6  ssh i virginia-key.pem ec2-user@34.207.99.201
+    7  ssh i virginia-key.pem ec2-user@34.207.99.201
+    8  ssh i virginia-key.pem ec2-user@200~34.207.99.201~
+    9  ssh i virginia-key.pem ec2-user@200~34.207.99.201
+   10  ssh i virginia-key.pem ec2-user@200~34.207.99.201
+   11  ssh i virginia-key.pem ec2-user@200~34.207.99.201
+   12  ssh i virginia-key.pem ec2-user@200~34.207.99.201
+   13  ssh i virginia-key.pem ec2-user@35.153.182.124
+   14  ssh i virginia-key.pem ec2-user@35.153.182.124
+   15  ssh i virginia-key.pem ec2-user@35.153.182.124
+   16  ls
+   17  ls
+   18  ls
+   19  ssh ram@192.168.31.95
+   20  ssh -i virginia-key.pem ec2-user@44.204.228.13
+   21  ssh -i virginia-key.pem ec2-user@44.204.228.13
+   22  aws configure
+   23  aws s3 ls
+   24  aws s3api put-bucket-versioning     --bucket buk-mf     --versioning-configuration Status=Enabled,MFADelete=Enabled     --mfa arn:aws:iam::590184126498:mfa/bhushan-mfa 824245"
+   25  aws s3api put-bucket-versioning     --bucket buk-mf     --versioning-configuration Status=Enabled,MFADelete=Enabled     --mfa "arn:aws:iam::590184126498:mfa/bhushan-mfa 824245"
+   26  aws s3api put-bucket-versioning     --bucket buk-mf     --versioning-configuration Status=Enabled,MFADelete=Enabled     --mfa "arn:aws:iam::590184126498:mfa/bhushan-mfa 950961"
+   27  aws s3api get-bucket-versioning --bucket buk-mf
+   28  aws s3api get-bucket-versioning --bucket <buk-mf>
+   29  aws configure
+   30  aws configure
+   31  aws configure
+   32  who
+   33  whoami
+   34  aws s3api put-bucket-versioning     --bucket buc-mf     --versioning-configuration Status=Enabled,MFADelete=Enabled     --profile sakshi     --region ap-south-1     --mfa-serial 590184126498     --mfa-token 238949
+   35  aws s3api put-bucket-versioning     --bucket buc-mf     --versioning-configuration Status=Enabled,MFADelete=Enabled     --mfa "arn:aws:iam::590184126498:mfa/Authapp 783471 "
+   36  aws s3api get-bucket-versioning --bucket buk-mf
+   37  ssh yash@192.168.186.65
+   38  ssh-kygen
+   39  ssh-keygen
+   40  ls
+   41  ls -a
+   42  cd /c/Users/Admin/.ssh/
+   43  ls
+   44  cat id_ed25519
+   45  ls
+   46  cat id_ed25519.pub 
+   47  ls
+   48  ssh -i id_ed25519 ec2-user@3.80.207.187
+   49  ls
+   50  ls
+   51  pwd
+   52  ls
+   53  ls -a
+   54  ssh-keygen
+   55  ls -a
+   56  cd /c/Users/Admin/
+   57  ls
+   58  pwd
+   59  ls
+   60  ls-a
+   61  ls -a
+   62  cd .shh
+   63  cd .ssh
+   64  ls
+   65  ls
+   66  ssh -i id_ed25519 ec2-user@54.165.126.33
+   67  ls
+   68  mv id_ed25519 universal-key
+   69  ls
+   70  ssh -i universal-key ec2-user@54.165.126.33
+   71  ssh root@192.168.186.200
+   72  ssh sam@192.168.186.200
+   73  ssh sam1@192.168.186.200
+   74  ssh sam1@192.168.186.200
+   75  ls
+   76  ls
+   77  cd Documents/
+   78  ls
+   79  pwd
+   80  mkdir k
+   81  ls
+   82  ssh -i mum-key.pem ec2-user@13.235.65.247
+   83  ls
+   84  scp -i mum-key.pem mum-key.pem ec2-user@13.235.65.247:/home/ec2-user
+   85  ls
+   86  scp -i mum-key.pem mum-key.pem ec2-user@13.235.65.247:/home/ec2-user
+   87  scp -i mum-key.pem mum-key.pem ec2-user@13.235.65.247:/home/ec2-user
+   88  ssh -i mum-key.pem ec2-user@13.235.65.247
+   89  ssh -i mum-key.pem ec2-user@13.235.65.247
+   90  scp -i mum-key.pem vi-key.pem ec2-user@13.235.65.247:/home/ec2-user
+   91  ssh -i mum-key.pem ec2-user@13.235.65.247
+   92  ssh -i mum-key.pem ec2-user@13.235.65.247
+   93  ll
+   94  chmod 600 m
+   95  chmod 600 mum-key.pem 
+   96  scp -i mum-key.pem student.war mum-key.pem ec2-user@/c/Users/Admin/Downloads/mum-key.pem
+   97  scp -i mum-key.pem student.war mum-key.pem ec2-user@43.204.96.168:/home/ec2-user
+   98  scp -i mum-key.pem apache-tomcat-9.0.98.zip ec2-user@43.204.96.168:/home/ec2-user
+   99  ls
+  100  aws configure
+  101  ls -a
+  102  aws s3 ls
+  103  aws s3 ls
+  104  aws s3 ls
+  105  ls
+  106  scp -i virginia-key.pem student.war mysql-connector.jar ec2-user@44.202.243.246:/home/ec2-user
+  107  ssh -i virginia-key.pem ec2-user@44.202.243.246
+  108  ls
+  109  ssh -i privat.txt ec2-user@18.209.15.186
+  110  ls
+  111  ll privat.txt 
+  112  chmod 600 privat.txt 
+  113  ssh -i privat.txt ec2-user@18.209.15.186
+  114  ll privat.txt 
+  115  chmod 600 privat.txt 
+  116  ll privat.txt 
+  117  sudo chmod 600 privat.txt 
+  118  ssh-keygen
+  119  ssh-keygen
+  120  cd /c/Users/Admin/.ssh/
+  121  ls
+  122  ll
+  123  chmod 600 id_ed25519
+  124  ll
+  125  chmod o-r id_ed25519
+  126  ll
+  127  cat id_ed25519.pub 
+  128  ls
+  129  ssh -i id_ed25519 ec2-user@3.85.87.159
+  130  ls
+  131  ssh -i id_ed25519 ec2-user@65.2.37.238
+  132  ls
+  133  mv id_ed25519 universal.key
+  134  ls
+  135  ssh -i vi-key.pem ec2-user@52.207.211.238
+  136  LL
+  137  ll
+  138  ll
+  139  ssh-keygen
+  140  cd /c/Users/Admin/.ssh/
+  141  ls
+  142  ssh -i id_ed25519 ec2-user@3.83.233.94
+  143  ls
+  144  ssh -i id_ed25519 ec2-user@3.83.233.94
+  145  ls
+  146  mv id_ed25519 private-key
+  147  ls
+  148  mv id_ed25519.pub public-key
+  149  ls
+  150  git --version 
+  151  ssh-keygen
+  152  l
+  153  ss
+  154  ls
+  155  ssh -i virginia-key ec2-user@54.166.91.161
+  156  chmod 600 virginia-key 
+  157  chmod 600 terraform-key.pem 
+  158  ssh -i terraform-key.pem ubuntu@54.173.30.213
+  159  ll terraform-key.pem 
+  160  chmod 400 terraform-key.pem 
+  161  ll terraform-key.pem 
+  162  ssh -i terraform-key.pem ubuntu@54.173.30.213
+  163  ssh -i ansible-key.pem ubuntu@54.173.30.213
+  164  ls
+  165  mv Nikita Desai _ DevOps Engineer.pdf nikita.pdf
+  166  mv Nikita Nikita\ Desai\ _\ DevOps\ Engineer.pdf.html NIKITA.pdf
+  167  ls -a
+  168  git add testing.py 
+  169  git status 
+  170  git rm --cached testing.py 
+  171  git status 
+  172  git add .
+  173  git status 
+  174  git commit -m "added testing file"
+  175  git status 
+  176  rm testing.py 
+  177  git status
+  178  git restore testing.py 
+  179  history
+  180  history > git_commands 
